@@ -1,0 +1,6 @@
+
+T
+java:S1874@"9Remove this use of "HTTP_SERVER_ERROR"; it is deprecated.(ô®ß“ıÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬„úïùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îşÿÿÿÿ

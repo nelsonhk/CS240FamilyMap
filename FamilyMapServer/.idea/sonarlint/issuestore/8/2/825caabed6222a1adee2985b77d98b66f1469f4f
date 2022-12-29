@@ -1,0 +1,26 @@
+
+J
+java:S1905"/Remove this unnecessary cast to "LocationData".(½¨ùÏüÿÿÿÿ
+t
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ì»§æùÿÿÿÿ
+G
+java:S1905."1Remove this unnecessary cast to "FemaleNameData".(ìèõÿ
+o
+java:S30120"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ö”þÄ
+E
+java:S1905>"/Remove this unnecessary cast to "MaleNameData".(»œóã
+t
+java:S3012@"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(äßË€ýÿÿÿÿ
+I
+java:S1905N".Remove this unnecessary cast to "SurnameData".(Î¹³ûúÿÿÿÿ
+o
+java:S3012P"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ð½ÿ†
+:
+java:S2119½"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+:
+java:S2119Ë"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+|
+java:S1488Å"eImmediately return this expression instead of assigning it to the temporary variable "eventLocation".(Œ•¸Ô
+S
+java:S4973Ï"<Strings and Boxed types should be compared using "equals()".(í—ŽŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¹ÈÔûÿÿÿÿ

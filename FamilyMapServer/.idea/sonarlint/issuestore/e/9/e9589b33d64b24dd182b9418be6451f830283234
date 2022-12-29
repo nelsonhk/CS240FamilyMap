@@ -1,0 +1,8 @@
+
+J
+java:S1905"/Remove this unnecessary cast to "LoginRequest".(¯šé…úÿÿÿÿ
+T
+java:S1874;"9Remove this use of "HTTP_SERVER_ERROR"; it is deprecated.(ô®ß“ıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(üÕÙä
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îşÿÿÿÿ

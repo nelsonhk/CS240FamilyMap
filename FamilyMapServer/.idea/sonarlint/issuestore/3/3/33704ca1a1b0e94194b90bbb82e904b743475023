@@ -1,0 +1,6 @@
+
+6
+java:S2129" Remove this "String" constructor(¹öÆš
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¹ÈÔûÿÿÿÿ
+M
+java:S2589G"7Remove this expression which always evaluates to "true"(‡î·À

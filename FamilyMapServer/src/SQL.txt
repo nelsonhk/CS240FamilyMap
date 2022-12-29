@@ -1,0 +1,42 @@
+DROP TABLE User;
+DROP TABLE Person;
+DROP TABLE Event;
+DROP TABLE AuthToken;
+
+CREATE TABLE User (
+    username TEXT NOT NULL PRIMARY KEY,
+    password TEXT NOT NULL,
+    email TEXT NOT NULL,
+    firstName TEXT NOT NULL,
+    lastName TEXT NOT NULL,
+    gender TEXT NOT NULL,
+    personID TEXT NOT NULL
+);
+
+CREATE TABLE Person (
+    personID TEXT NOT NULL PRIMARY KEY,
+    username TEXT NOT NULL,
+    firstName TEXT NOT NULL,
+    lastName TEXT NOT NULL,
+    gender TEXT NOT NULL,
+    motherID TEXT,
+    fatherID TEXT,
+    spouseID TEXT
+);
+
+CREATE TABLE Event (
+    eventID TEXT NOT NULL PRIMARY KEY,
+    username TEXT NOT NULL,
+    personID TEXT NOT NULL,
+    latitude REAL NOT NULL,
+    longitude REAL NOT NULL,
+    country TEXT NOT NULL,
+    city TEXT NOT NULL,
+    eventType TEXT NOT NULL,
+    year INTEGER NOT NULL
+);
+
+CREATE TABLE AuthToken (
+    Authtoken TEXT NOT NULL PRIMARY KEY,
+    Username TEXT NOT NULL
+);

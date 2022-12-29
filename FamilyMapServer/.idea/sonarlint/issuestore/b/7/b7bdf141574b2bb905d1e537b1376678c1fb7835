@@ -1,0 +1,10 @@
+
+T
+java:S1874I"9Remove this use of "HTTP_SERVER_ERROR"; it is deprecated.(ô®ß“ıÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'Result.PersonIDResult'.(”¯‘Š
+G
+java:S1128",Remove this unused import 'Service.Persons'.(µæ¬ûşÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬„úïùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îşÿÿÿÿ

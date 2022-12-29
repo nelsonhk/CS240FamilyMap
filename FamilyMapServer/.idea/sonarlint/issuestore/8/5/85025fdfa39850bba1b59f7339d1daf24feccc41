@@ -1,0 +1,8 @@
+
+6
+java:S2129" Remove this "String" constructor(¹öÆš
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+X
+java:S2184S"BCast one of the operands of this addition operation to a "double".(ï›ë¹
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¹ÈÔûÿÿÿÿ

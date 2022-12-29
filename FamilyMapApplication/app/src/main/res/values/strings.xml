@@ -1,0 +1,45 @@
+<resources>
+
+    <!--  Login Fragment Field Names  -->
+    <string name="app_name">Family Map</string>
+    <string name="serverHost">Server Host: </string>
+    <string name="serverPort">"Server Port: "</string>
+    <string name="userName">"User Name: "</string>
+    <string name="password">"Password: "</string>
+    <string name="firstName">First Name:</string>
+    <string name="lastName">"Last Name: "</string>
+    <string name="emailAddress">"Email Address: "</string>
+    <string name="gender">"Gender: "</string>
+
+    <string name="femaleGenderButton">"Female"</string>
+    <string name="maleGenderButton">"Male</string>
+
+    <!--  Login Fragment Button Names  -->
+    <string name="loginButton">Sign In</string>
+    <string name="registerButton">Register</string>
+
+
+    <string name="mapFragmentMessage">Click on a marker to see more details</string>
+    <string name="lastNameText">Last Name</string>
+    <string name="firstNameText">First Name</string>
+    <string name="genderText">Gender</string>
+
+    <string name="eventsForUser">Life Events</string>
+    <string name="familyMembersForUser">Family</string>
+
+    <string name="searchMenu">Search</string>
+    <string name="settingsMenu">Settings</string>
+
+    <string name="trueBoolean">true</string>
+    <string name="falseBoolean">false</string>
+
+    <string name="life_story_lines_key">life-story-lines</string>
+    <string name="family_tree_lines_key">family-tree-lines</string>
+    <string name="spouse_lines_key">spouse-lines</string>
+    <string name="fathers_side_key">fathers-side</string>
+    <string name="mothers_side_key">mother-side</string>
+    <string name="male_events_key">male-events</string>
+    <string name="female_events_key">female-events</string>
+    <string name="logout_preference_key">logout</string>
+
+</resources>

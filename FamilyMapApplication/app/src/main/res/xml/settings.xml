@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:key="@string/life_story_lines_key"
+        android:title="Life Story Lines"
+        android:summary="SHOW LIFE STORY LINES"/>
+
+    <SwitchPreferenceCompat
+        android:key="@string/family_tree_lines_key"
+        android:title="Family Tree Lines"
+        android:summary="SHOW FAMILY TREE LINES"/>
+
+    <SwitchPreferenceCompat
+        android:key="@string/spouse_lines_key"
+        android:title="Spouse Lines"
+        android:summary="SHOW SPOUSE LINES"/>
+
+    <SwitchPreferenceCompat
+        android:key="@string/fathers_side_key"
+        android:title="Father's Side"
+        android:summary="FILTER BY FATHER'S SIDE OF THE FAMILY"/>
+
+    <SwitchPreferenceCompat
+        android:key="@string/mothers_side_key"
+        android:title="Mother's Side"
+        android:summary="FILTER BY MOTHER'S SIDE OF THE FAMILY"/>
+
+    <SwitchPreferenceCompat
+        android:key="@string/male_events_key"
+        android:title="Male Events"
+        android:summary="FILTER EVENTS BASED ON GENDER"/>
+
+    <SwitchPreferenceCompat
+        android:key="@string/female_events_key"
+        android:title="Female Events"
+        android:summary="FILTER EVENTS BASED ON GENDER"/>
+
+    <Preference
+        android:key="@string/logout_preference_key"
+        android:title="Logout"
+        android:summary="RETURN TO LOGIN SCREEN" />
+</PreferenceScreen>
